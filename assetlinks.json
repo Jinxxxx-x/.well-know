@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "redeamazonica.tonarede",
+  "target" : { "namespace": "android_app", "package_name": "com.redeamazonica.tonaredeam",
                "sha256_cert_fingerprints": ["D9:7B:FA:C7:4D:00:50:EC:72:8D:5F:8E:5F:41:0F:E3:CF:13:37:09:94:E0:0E:C8:50:C5:5D:5D:C1:0F:63:3A"] }
 }]
